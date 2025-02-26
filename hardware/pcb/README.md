@@ -17,4 +17,4 @@ The PCB design process consists of **four key steps**:
 - If you need to **modify the PCB**, download the **KiCAD/Eagle files** from OSHWHub.  
 - To manufacture the board, use the **Gerber files** provided in the OSHWHub repository.  
 
-For **assembly instructions and wiring details**, refer to the **main SoftSnap documentation** in the `/docs/` folder.  
+For **assembly instructions and wiring details**, refer to the **main SoftSnap documentation**.
