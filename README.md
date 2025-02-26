@@ -24,7 +24,7 @@ This repository provides **open-source resources**, including:
 ## 📂 Repository Structure  
 
 📦 SoftSnap
-├── hardware/ # CAD models & PCB design \\
+├── hardware/ # CAD models & PCB design
 ├── software/ # Jupyter Notebook-based simulation & control code
 ├── firmware/ # Microcontroller firmware
 ├── docs/ # Assembly guide & tutorials
