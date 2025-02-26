@@ -52,7 +52,7 @@ The simulation, forward and inverse modeling, and control scripts are provided a
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/SoftSnap.git  
+   git clone https://github.com/luyangzhao/SoftSnap.git  
    cd SoftSnap
    ```  
 2. Open the Jupyter Notebook:  
