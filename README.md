@@ -75,7 +75,7 @@ However, real-world performance varies due to energy losses, standby consumption
 ---
 
 ## 📜 Documentation  
-📄 **Paper Reference**: [SoftSnap: Rapid Prototyping of Untethered Soft Robots](LINK_TO_PAPER)  
+📄 **Paper Reference**: [SoftSnap: Rapid Prototyping of Untethered Soft Robots](https://arxiv.org/abs/2410.19169)  
 
 📜 **CAD & PCB Files**: `/hardware/`  
 
