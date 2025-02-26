@@ -3,6 +3,13 @@
 ## 🚀 Overview  
 SoftSnap is a **modular, untethered soft robotics system** designed for **rapid prototyping** and exploration of **bio-inspired locomotion and manipulation tasks**. It enables researchers, educators, and hobbyists to quickly assemble **snap-together robotic modules** with integrated **cable-driven actuation, onboard control, and wireless communication**.
 
+### **🔹 SoftSnap Full Assembly**
+![SoftSnap Full Assembly](hardware/cad/softsnap_module.png)  
+
+### **🔹 3-in-1 Motor Module PCB**
+![SoftSnap PCB](hardware/pcb/pcb_render.png)  
+---
+
 This repository provides **open-source resources**, including:  
 ✅ **CAD models** for SoftSnap skeletons, connectors, and casing.  
 ✅ **PCB designs** for the integrated control system.  
