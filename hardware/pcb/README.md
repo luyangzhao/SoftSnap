@@ -1,15 +1,20 @@
-# **PCB Design for 3-in-1 Motor Module**  
+# **PCB Design for SoftSnap 3-in-1 Motor Module**  
 
 ## 🔗 Access the PCB Design  
-The full PCB design, including the **schematic, layout, and fabrication files**, is hosted on **OSHWHub**:  
+The full **schematic, layout, and fabrication files** for the **3-in-1 Motor Module PCB** are available on **OSHWHub**:  
 👉 [View the PCB Design on OSHWHub](https://oshwhub.com/cccat/universal-design)  
 
 ## 🛠️ About This PCB  
-- This **custom PCB** integrates the motor driver, Wi-Fi module, and power management for the SoftSnap **3-in-1 Motor Module**.  
-- The board design follows a **4-step process**:
-  1. **Schematic Design (原理图)** – Component selection and circuit diagram.  
-  2. **Component Layout (布局)** – Arranging components efficiently on the PCB.  
-  3. **Routing (布线)** – Connecting electrical traces.  
-  4. **Final Adjustments (细节优化)** – Ground planes, vias, silkscreen, etc.  
+This **custom PCB** integrates the **motor driver, Wi-Fi module, and power management** for SoftSnap’s **3-in-1 Motor Module**.  
 
-For modifications, download the **KiCAD/Eagle files** directly from **OSHWHub**.  
+The PCB design process consists of **four key steps**:  
+1️⃣ **Schematic Design (原理图)** – Creating the circuit diagram and selecting components.  
+2️⃣ **Component Layout (布局)** – Arranging components efficiently on the board.  
+3️⃣ **Routing (布线)** – Connecting electrical traces.  
+4️⃣ **Final Adjustments (细节优化)** – Ground planes, vias, silkscreen labeling, etc.  
+
+## 📂 How to Use  
+- If you need to **modify the PCB**, download the **KiCAD/Eagle files** from OSHWHub.  
+- To manufacture the board, use the **Gerber files** provided in the OSHWHub repository.  
+
+For **assembly instructions and wiring details**, refer to the **main SoftSnap documentation** in the `/docs/` folder.  
