@@ -83,7 +83,7 @@ However, real-world performance varies due to energy losses, standby consumption
 
 🛠 **Assembly Guide & Tutorials**: `/docs/`  
 
-🔗 **GitHub Repository**: [GitHub Link](https://github.com/YOUR_GITHUB_USERNAME/SoftSnap)  
+🔗 **GitHub Repository**: [GitHub Link](https://github.com/luyangzhao/SoftSnap)  
 
 ---
 
