@@ -3,13 +3,21 @@
 ## 🚀 Overview  
 SoftSnap is a **modular, untethered soft robotics system** designed for **rapid prototyping** and exploration of **bio-inspired locomotion and manipulation tasks**. It enables researchers, educators, and hobbyists to quickly assemble **snap-together robotic modules** with integrated **cable-driven actuation, onboard control, and wireless communication**.
 
+### **🎥 Demonstration Video**  
+Watch the SoftSnap in action:  
+[![SoftSnap Video](https://img.youtube.com/vi/SWuYzo7xSno/0.jpg)](https://www.youtube.com/watch?v=SWuYzo7xSno)
+
+---
+
 ### **🔹 SoftSnap Full Assembly**
 ![SoftSnap Full Assembly](hardware/cad/softsnap_module.png)  
 
 ### **🔹 3-in-1 Motor Module PCB**
 ![SoftSnap PCB](hardware/pcb/pcb_render.png)  
+
 ---
 
+## 📦 Open-Source Resources  
 This repository provides **open-source resources**, including:  
 ✅ **CAD models** for SoftSnap skeletons, connectors, and casing.  
 ✅ **PCB designs** for the integrated control system.  
@@ -32,13 +40,19 @@ This repository provides **open-source resources**, including:
 
 ```
 📦 SoftSnap  
- ├── hardware/              # CAD models & PCB design  
- ├── software/              # Jupyter Notebook-based simulation & control code  
- ├── firmware/              # Microcontroller firmware  
- ├── docs/                  # Assembly guide & tutorials  
- ├── LICENSE                # License file  
- ├── README.md              # This document  
- ├── requirements.txt       # Python dependencies (if needed)  
+ ├── hardware/                   # CAD models & PCB design  
+ │   ├── pcb/                    # PCB design files  
+ │   │   ├── pcb_render.png       # PCB design image  
+ │   │   ├── README.md            # PCB design documentation  
+ │   ├── cad/                     # 3D models and shell for 3-in-1 Motor Module  
+ │   │   ├── softsnap_module.png  # Full SoftSnap module image  
+ │   │   ├── README.md            # 3D model printing & assembly guide  
+ ├── software/                    # Jupyter Notebook-based simulation & control code  
+ │   ├── forward_simulation.ipynb # Forward kinematics simulation  
+ │   ├── inverse_simulation.ipynb # Inverse kinematics simulation  
+ │   ├── README.md                # Simulation documentation  
+ ├── LICENSE                      # License file  
+ ├── README.md                    # Main repository documentation  
 ```
 
 ---
@@ -66,12 +80,7 @@ The simulation, forward and inverse modeling, and control scripts are provided a
    ```bash
    jupyter notebook  
    ```  
-3. Navigate to the **software/** directory and run the provided notebooks.
-
----
-
-## 🖥️ Running the Simulator  
-The Jupyter Notebook includes **forward and inverse kinematics simulations**. Open and execute the notebook in the **software/** directory to visualize deformation patterns.
+3. Navigate to the **software/** directory and run the desired notebook.
 
 ---
 
@@ -90,7 +99,7 @@ However, real-world performance varies due to energy losses, standby consumption
 
 🛠 **Assembly Guide & Tutorials**: `/docs/`  
 
-🔗 **GitHub Repository**: [GitHub Link](https://github.com/luyangzhao/SoftSnap)  
+🔗 **GitHub Repository**: [https://github.com/luyangzhao/SoftSnap](https://github.com/luyangzhao/SoftSnap)  
 
 ---
 
