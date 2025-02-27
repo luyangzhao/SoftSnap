@@ -22,8 +22,7 @@ This repository provides **open-source resources**, including:
 ✅ **CAD models** for SoftSnap skeletons, connectors, and casing.  
 ✅ **PCB designs** for the integrated control system.  
 ✅ **Jupyter Notebook-based code** for forward and inverse simulation.  
-✅ **Firmware and control scripts** for actuation and locomotion experiments.  
-✅ **Assembly guidelines and tutorials** to build and modify SoftSnap robots.  
+✅ **Assembly guidelines** to build and modify SoftSnap robots (see the video). 
 
 ---
 
