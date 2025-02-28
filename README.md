@@ -7,10 +7,6 @@ SoftSnap is a **modular, untethered soft robotics system** designed for **rapid 
 Watch the SoftSnap in action:  
 [![SoftSnap Video](https://img.youtube.com/vi/SWuYzo7xSno/0.jpg)](https://www.youtube.com/watch?v=SWuYzo7xSno)
 
-**Cite this work as:**   
-_Zhao, L., Jiang, Y., She, C., Quattrini Li, A., Chen, M., Balkcom, D., 2024. SoftSnap: Rapid Prototyping of Untethered Soft Robots Using Snap-Together Modules. Soft Robotics. DOI: [arXiv:2410.19169](arXiv:2410.19169)_
-
-
 ---
 
 ### **🔹 SoftSnap Full Assembly**
@@ -108,6 +104,12 @@ However, real-world performance varies due to energy losses, standby consumption
 
 ## 🔬 Citation  
 If you use SoftSnap in your research, please cite our work:  
+
+
+```
+Zhao, L., Jiang, Y., She, C., Chen, M., Balkcom, D., 2024. SoftSnap: Rapid Prototyping of Untethered Soft Robots Using Snap-Together Modules. Soft Robotics. DOI: arXiv:2410.19169
+```
+
 
 ```
 @article{zhao2024softsnap,
