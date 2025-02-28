@@ -8,7 +8,7 @@ Watch the SoftSnap in action:
 [![SoftSnap Video](https://img.youtube.com/vi/SWuYzo7xSno/0.jpg)](https://www.youtube.com/watch?v=SWuYzo7xSno)
 
 **Cite this work as:**   
-_Zhao, L., Jiang, Y., She, C., Quattrini Li, A., Chen, M., Balkcom, D., 2024. SoftSnap: Rapid Prototyping of Untethered Soft Robots Using Snap-Together Modules. Soft Robotics. DOI:_
+_Zhao, L., Jiang, Y., She, C., Quattrini Li, A., Chen, M., Balkcom, D., 2024. SoftSnap: Rapid Prototyping of Untethered Soft Robots Using Snap-Together Modules. Soft Robotics. DOI: [arXiv:2410.19169](arXiv:2410.19169)_
 
 
 ---
@@ -131,4 +131,4 @@ While this system provides an open-source foundation for soft robotics explorati
 ---
 
 ## 📝 License  
-📜 This project is licensed under the **MIT License**.  
+📜 This project is licensed under the **MIT License**. The terms are give in: https://opensource.org/license/mit.
