@@ -24,6 +24,7 @@ SoftSnap is a **modular, untethered soft robotics system** designed for **rapid 
 This repository provides **open-source resources**, including:  
 ✅ **CAD models** for SoftSnap skeletons, connectors, and casing.  
 ✅ **PCB designs** for the integrated control system.  
+✅ **Firmware code** for the integrated control system.  
 ✅ **Jupyter Notebook-based code** for forward and inverse simulation.  
 ✅ **Assembly guidelines** to build and modify SoftSnap robots (see the video). 
 
@@ -49,7 +50,8 @@ This repository provides **open-source resources**, including:
  │   ├── cad/                     # 3D models and shell for 3-in-1 Motor Module  
  │   │   ├── softsnap_module.png  # Full SoftSnap module image  
  │   │   ├── README.md            # 3D model printing & assembly guide  
- ├── software/                    # Jupyter Notebook-based simulation & control code  
+ ├── software/                    # Jupyter Notebook-based simulation & control code 
+ │   ├── Firmware.ino             # Firmware program source code   
  │   ├── forward_simulation.ipynb # Forward kinematics simulation  
  │   ├── inverse_simulation.ipynb # Inverse kinematics simulation  
  │   ├── README.md                # Simulation documentation  
