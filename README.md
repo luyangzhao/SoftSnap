@@ -3,13 +3,9 @@
 ## 🚀 Overview  
 SoftSnap is a **modular, untethered soft robotics system** designed for **rapid prototyping** and exploration of **bio-inspired locomotion and manipulation tasks**. It enables researchers, educators, and hobbyists to quickly assemble **snap-together robotic modules** with integrated **cable-driven actuation, onboard control, and wireless communication**.
 
-### 🎥 Demonstration Video
-Watch the SoftSnap in action:
-
-<iframe width="560" height="315" 
-    src="https://www.youtube.com/embed/SWuYzo7xSno" 
-    frameborder="0" allowfullscreen>
-</iframe>
+### 🎥 Demonstration Video  
+Watch the SoftSnap in action:  
+[![SoftSnap Video](https://img.youtube.com/vi/SWuYzo7xSno/0.jpg)](https://www.youtube.com/watch?v=SWuYzo7xSno)
 
 ---
 
