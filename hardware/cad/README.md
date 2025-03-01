@@ -11,7 +11,6 @@ This folder contains **3D models** for all key components of SoftSnap, enabling 
 ## 📂 Files in this Folder  
 - `3-in-1_motor_shell_part1.stl` → First part of the motor module shell.  
 - `3-in-1_motor_shell_part2.stl` → Second part of the motor module shell.  
-- `3-in-1_motor_module.step` → Full STEP file for modifying the motor module shell.  
 - `Passive skeleton.stl` → Passive skeleton with customizable rib structure.  
 - `Two-directional connector.stl` → Snap-together connector for modular assembly.  
 - `softsnap_module.png` → Rendered image of the assembled SoftSnap system.  
