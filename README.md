@@ -123,6 +123,11 @@ Zhao, L., Jiang, Y., She, C., Chen, M., Balkcom, D., 2024. SoftSnap: Rapid Proto
 }
 ```
 
+---
+
+## Help Desk:
+
+We are open and willing to answer any question. Please state your problem clearly and use the following emails to contact: Luyang Zhao: <luyang.zhao.gr@dartmouth.edu>, Yitao Jiang: <yitao.jiang.gr@dartmouth.edu>. Thank you!
 
 ---
 
