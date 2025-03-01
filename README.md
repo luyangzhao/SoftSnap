@@ -128,4 +128,4 @@ Zhao, L., Jiang, Y., She, C., Chen, M., Balkcom, D., 2024. SoftSnap: Rapid Proto
 ---
 
 ## 📝 License  
-📜 This project is licensed under the **MIT License**. The terms are give in: https://opensource.org/license/mit.
+📜 This project is licensed under the **MIT License**. 
