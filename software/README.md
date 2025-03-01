@@ -8,6 +8,7 @@ This folder contains **Jupyter Notebooks** for simulating SoftSnap’s deformati
 ## 📂 Files in this Folder  
 - `forward_simulation.ipynb` → Simulates how SoftSnap deforms given motor actuation inputs (forward kinematics).  
 - `inverse_simulation.ipynb` → Computes the required control inputs to achieve a desired deformation (inverse kinematics).  
+- `Firmware.ino` → The firmware program of this project. Use Arduino IDE to edit and burn into the board.  
 
 ---
 
