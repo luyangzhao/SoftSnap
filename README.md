@@ -120,15 +120,6 @@ Zhao, L., Jiang, Y., She, C., Chen, M., Balkcom, D., 2024. SoftSnap: Rapid Proto
 }
 ```
 
----
-
-## 🔮 Future Work & Contributions  
-While this system provides an open-source foundation for soft robotics exploration, we plan to:  
-- **Develop a full design/education tool** with optimized skeleton geometries for specific tasks.  
-- **Enhance force estimation models** for more advanced control.  
-- **Expand simulation capabilities** with real-time physics modeling.  
-
-**Contributions are welcome!** Feel free to submit **pull requests** or report issues.  
 
 ---
 
