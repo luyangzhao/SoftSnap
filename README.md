@@ -87,8 +87,9 @@ The simulation, forward and inverse modeling, and control scripts are provided a
 ---
 
 ## 🔋 Battery Life & Actuation Cycles  
-The **200 mAh battery** provides a theoretical energy capacity of **0.2 × 3.7V = 0.74 Wh**. Under a nominal load, the motor consumes approximately **160 mA × 12V × 1s = 0.000533 Wh** per cycle, yielding a theoretical estimate of **1388 cycles** per full charge.  
-However, real-world performance varies due to energy losses, standby consumption, and load fluctuations. Experimental testing with the **XX skeleton configuration** resulted in **XX cycles per full charge**.
+The **200 mAh battery** provides a theoretical energy capacity of **0.2 × 3.7V = 0.74 Wh**. Under a nominal load, the motor consumes approximately **160 mA × 12V × 1s = 0.533 mWh** per cycle, yielding a theoretical estimate of **1,388 cycles** per full charge.  
+However, real-world performance varies due to energy losses, standby consumption, and load fluctuations. 
+<!-- Experimental testing with the **XX skeleton configuration** resulted in **XX cycles per full charge**. -->
 
 ---
 
