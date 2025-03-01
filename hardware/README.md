@@ -42,7 +42,7 @@ hardware/
 - Custom PCB for **motor control, wireless communication, and battery management**.  
 - The full design is available on **OSHWHub**:  
   👉 [SoftSnap PCB Design on OSHWHub](https://oshwhub.com/cccat/universal-design)  
-- File: `pcb_render.png` (preview image)  
+- File: `pcb/pcb_render.png` (preview image)  
 
 ---
 
