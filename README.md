@@ -10,10 +10,13 @@ SoftSnap is a **modular, untethered soft robotics system** designed for **rapid 
 ---
 
 ### **🔹 SoftSnap Full Assembly**
-![SoftSnap Full Assembly](hardware/cad/softsnap_module.png)  
+<!-- ![SoftSnap Full Assembly](hardware/cad/softsnap_module.png)   -->
+<img src="hardware/cad/softsnap_module.png" width="500" height="100">
 
 ### **🔹 3-in-1 Motor Module PCB**
-![SoftSnap PCB](hardware/pcb/pcb_render.png)  
+<!-- ![SoftSnap PCB](hardware/pcb/pcb_render.png)   -->
+<img src="hardware/pcb/pcb_render.png" width="250" height="125">
+
 
 ---
 
