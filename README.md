@@ -5,7 +5,7 @@ SoftSnap is a **modular, untethered soft robotics system** designed for **rapid 
 
 ### 🎥 Demonstration Video  
 📺 **Watch the SoftSnap demo directly on GitHub Pages:**  
-👉 [Click here to view](https://github.com/luyangzhao/SoftSnap/)
+👉 [Click here to view](https://github.com/luyangzhao/SoftSnap/docs)
 
 ---
 
